@@ -9,5 +9,9 @@ The three files were provided, and the purpose of these files are to visualise t
 - plotmap.m
 - viewmap.m
 
-To run the script, run the RUNME.m file and change the inputs to switch between maps and the start/end co-ordinates
+To run the script, run the RUNME.m file which calls the BFS.m file.
+
+You can change the inputs to switch between maps and the start/end co-ordinates.
+
+
 
